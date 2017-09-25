@@ -10,7 +10,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Race Condition](03-race-condition.md)                                | Beginner              |
 | [Single and Master](04-single-master.md)                              | Beginner              |
 | [Sections](05-sections.md)                                            | Beginner              |
-| [Checkpointing and Restart](06-checkpointing-and-restart.md)          | Intermediate          |
+| [Parallel for](06-parallel-for.md)                                    | Intermediate          |
 | [Introduction to Containers](07-introduction-to-containers.md)        | Intermediate          |
 | [Intel Trace Collector](08-intel-trace-collector.md)                  | Intermediate/Advanced |
 | [Intel Trace Analyzer](09-intel-trace-analyzer.md)                    | Intermediate/Advanced |
