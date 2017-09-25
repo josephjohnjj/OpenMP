@@ -14,8 +14,9 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Reduction](07-reduction.md)                                          | Beginner              |
 | [Private, lastprivate, firstprivate ](08-last-first-private.md)       | Beginner              |
 | [Schedules](09-schedules.md)                                          | Intermediate/Advanced |
-| [Intel MPI Runtime Tuning](10-mpi-runtime-tuning.md)                  | Intermediate/Advanced |
-| [Single Task Tuning](11-single-task-tuning.md)                        | Advanced              |
+| [Tasks](10-tasks.md)                                                  | Advanced              |
+| [Profiling](11-profiling.md)                                          | Advanced              |
+
 
 ## References
 Tim Mattson’s (Intel) “Introduction to OpenMP” (2013) on YouTube
