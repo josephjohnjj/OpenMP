@@ -9,7 +9,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Scope of the variable](02-scope-variable.md)                         | Beginner              |
 | [Race Condition](03-race-condition.md)                                | Beginner              |
 | [Single and Master](04-single-master.md)                              | Beginner              |
-| [Setting up Complex Workflows](05-setting-up-complex-workflows.md)    | Beginner              |
+| [Sections](05-sections.md)                                            | Beginner              |
 | [Checkpointing and Restart](06-checkpointing-and-restart.md)          | Intermediate          |
 | [Introduction to Containers](07-introduction-to-containers.md)        | Intermediate          |
 | [Intel Trace Collector](08-intel-trace-collector.md)                  | Intermediate/Advanced |
