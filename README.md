@@ -18,4 +18,5 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Single Task Tuning](11-single-task-tuning.md)                        | Advanced              |
 
 ## References
+Tim Mattson’s (Intel) “Introduction to OpenMP” (2013) on YouTube
 
