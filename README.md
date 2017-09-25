@@ -1,5 +1,5 @@
 # OpenMP Training
-This folder contains the required material to get a beginner level knowledge in OpenMP. The profiling for advanced users. 
+This folder contains the required material to get a beginner level knowledge in OpenMP. The last three are topics are Advanced topics.
 
 ## Sections
 
