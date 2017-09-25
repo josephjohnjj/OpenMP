@@ -7,7 +7,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | --------------------------------------------------------------------- | --------------------- |
 | [Setting number of threads](01-thread-num.md)                         | Beginner              |
 | [Scope of the variable](02-scope-variable.md)                         | Beginner              |
-| [Working Environment](03-working-environment.md)                      | Beginner              |
+| [Race Condition](03-race-condition.md)                                | Beginner              |
 | [Workload Manager](04-workload-manager.md)                            | Beginner              |
 | [Setting up Complex Workflows](05-setting-up-complex-workflows.md)    | Beginner              |
 | [Checkpointing and Restart](06-checkpointing-and-restart.md)          | Intermediate          |
