@@ -12,7 +12,7 @@ Program 1
 
 void main(){
 
-        int a[10][10], i, j;
+        int i, j;
 
         
         omp_set_num_threads(4);
@@ -33,7 +33,7 @@ Program 2
 
 void main(){
 
-        int a[10][10], i, j;
+        int i, j;
 
 
         omp_set_num_threads(4);

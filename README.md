@@ -5,8 +5,8 @@ This folder contains the required material to get a beginner level knowledge in 
 
 | Topic                                                                 | Target Audience       |
 | --------------------------------------------------------------------- | --------------------- |
-| [Setting Number of Threads](01-thread-num.md)                         | Beginner              |
-| [Data Management](02-data-management.md)                              | Beginner              |
+| [Setting number of threads](01-thread-num.md)                         | Beginner              |
+| [Scope of the variable](02-scope-variable.md)                         | Beginner              |
 | [Working Environment](03-working-environment.md)                      | Beginner              |
 | [Workload Manager](04-workload-manager.md)                            | Beginner              |
 | [Setting up Complex Workflows](05-setting-up-complex-workflows.md)    | Beginner              |
