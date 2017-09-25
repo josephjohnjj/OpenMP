@@ -12,7 +12,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Sections](05-sections.md)                                            | Beginner              |
 | [Parallel for](06-parallel-for.md)                                    | Beginner              |
 | [Reduction](07-reduction.md)                                          | Beginner              |
-| [Intel Trace Collector](08-intel-trace-collector.md)                  | Intermediate/Advanced |
+| [Private, lastprivate, firstprivate ](08-last-first-private.md)       | Beginner              |
 | [Intel Trace Analyzer](09-intel-trace-analyzer.md)                    | Intermediate/Advanced |
 | [Intel MPI Runtime Tuning](10-mpi-runtime-tuning.md)                  | Intermediate/Advanced |
 | [Single Task Tuning](11-single-task-tuning.md)                        | Advanced              |
