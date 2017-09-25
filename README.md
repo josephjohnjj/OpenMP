@@ -1,4 +1,4 @@
-# HPC User Training
+# OpenMP Training
 This folder contains the required material to get a beginner level knowledge in OpenMP. The profiling for advanced users. 
 
 ## Sections
@@ -10,8 +10,8 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Race Condition](03-race-condition.md)                                | Beginner              |
 | [Single and Master](04-single-master.md)                              | Beginner              |
 | [Sections](05-sections.md)                                            | Beginner              |
-| [Parallel for](06-parallel-for.md)                                    | Intermediate          |
-| [Introduction to Containers](07-introduction-to-containers.md)        | Intermediate          |
+| [Parallel for](06-parallel-for.md)                                    | Beginner              |
+| [Reduction](07-reduction.md)                                          | Beginner              |
 | [Intel Trace Collector](08-intel-trace-collector.md)                  | Intermediate/Advanced |
 | [Intel Trace Analyzer](09-intel-trace-analyzer.md)                    | Intermediate/Advanced |
 | [Intel MPI Runtime Tuning](10-mpi-runtime-tuning.md)                  | Intermediate/Advanced |
