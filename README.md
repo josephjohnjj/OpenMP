@@ -8,6 +8,7 @@ This folder contains the required material to get a beginner level knowledge in 
 | [Setting number of threads](01-thread-num.md)                         | Beginner              |
 | [Scope of the variable](02-scope-variable.md)                         | Beginner              |
 | [Race Condition](03-race-condition.md)                                | Beginner              |
+| [Critical Section](04-critical-section.md)				| Beginner              |
 | [Single and Master](04-single-master.md)                              | Beginner              |
 | [Sections](05-sections.md)                                            | Beginner              |
 | [Parallel for](06-parallel-for.md)                                    | Beginner              |
