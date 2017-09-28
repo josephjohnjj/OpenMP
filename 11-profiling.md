@@ -13,6 +13,7 @@ The architecture of score-p is as given below.
 ![Alt text](architecture.png?raw=true "Image taken from https://silc.zih.tu-dresden.de/scorep-current/")
 
 To instrument an openmp code use the following command
+
 scorep gcc first.c --openmp
 
 After compiling we can run the executable. When the executable is run, a folder with the profile will be created. To view the profiling information we can use the command 
