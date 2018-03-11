@@ -47,7 +47,7 @@ void main(){
         {
                 int id = omp_get_thread_num();
 
-                #pragma omp master
+                #pragma omp single
                 printf("-------The process is starting------- \n");
 
                 #pragma omp critical                
